@@ -1,7 +1,6 @@
-# Vision Meets Drones
 <p><br>
 <div>
-<img src="https://github.com/F-Aghaeipoor/DL-Vision-Meets-Drones/blob/master/Sources/1.png" />
+<img src="https://github.com/F-Aghaeipoor/DL-Vision-Meets-Drones/blob/master/Sources/1.png" width="800" height="600"/>
 </div>
 <p><br>
   
